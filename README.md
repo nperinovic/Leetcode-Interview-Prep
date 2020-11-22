@@ -1,7 +1,7 @@
 # Leetcode Practice
-#### Repository for Leetcode/Interview Prep. Split into Leetcode Easy, Medium and Hard problems.
+#### Repository for Leetcode/Interview Prep. Split into Leetcode Easy, Medium and Hard.
 ####
-##### Easy:
+#### Easy:
 ###### Two Sum (Arrays)
 ###### Reverse Integer (Math, Integer/String manipulation)
 ###### Palindrome Number (Math, Integer/String manipulation)
