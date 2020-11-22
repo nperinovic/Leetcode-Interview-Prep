@@ -17,3 +17,7 @@
 ##### Maximum Subarray (Array, Divide and Conquer, Dynamic Programming)
 ##### Length of Last Word (String)
 ##### Plus One (Array)
+#### </br>
+### Medium:
+#### </br>
+### Hard:
