@@ -13,6 +13,7 @@
 ##### Remove Element (Arrays)
 ##### Implement strStr (Strings)
 ##### Search Insert Position (Binary Search, Array)
-#####
-#####
-#####
+##### Count and Say (Strings)
+##### Maximum Subarray (Array, Divide and Conquer, Dynamic Programming)
+##### Length of Last Word (String)
+##### Plus One (Array)
