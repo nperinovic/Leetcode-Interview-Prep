@@ -1,2 +1,3 @@
 # Leetcode
-### Creating a repository to hold Leetcode problems.
+#### Repository for Leetcode/Interview Prep.
+#### Split into Leetcode Easy, Medium and Hard problems.
