@@ -1,6 +1,6 @@
 # Leetcode Practice
 #### Repository for Leetcode/Interview Prep. Split into Leetcode Easy, Medium and Hard.
-#### {\n}
+\n
 #### Easy:
 ###### Two Sum (Arrays)
 ###### Reverse Integer (Math, Integer/String manipulation)
