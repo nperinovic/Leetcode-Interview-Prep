@@ -1,6 +1,5 @@
-# Leetcode
-#### Repository for Leetcode/Interview Prep.
-#### Split into Leetcode Easy, Medium and Hard problems.
+# Leetcode Practice
+#### Repository for Leetcode/Interview Prep. Split into Leetcode Easy, Medium and Hard problems.
 ####
 ##### Easy:
 ###### Two Sum (Arrays)
