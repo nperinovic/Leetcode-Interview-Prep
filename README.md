@@ -1,5 +1,5 @@
 # Leetcode Practice
-### Repository for Leetcode/Interview Prep. Split into Leetcode Easy, Medium and Hard.
+### Interview prep containing easy, medium and hard problems.
 #### </br>
 ### Easy:
 ###### 1. Two Sum (Arrays)
@@ -21,5 +21,6 @@
 #### </br>
 ### Medium:
 ###### 1. Add Two Numbers (Linked Lists, Math)
+###### 2. Longest Substring Without Repeating Characters (Hashset)
 #### </br>
 ### Hard:
