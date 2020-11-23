@@ -2,8 +2,8 @@
 ### Interview prep containing easy, medium and hard problems.
 #### </br>
 ### Easy:
-###### 1. Two Sum (Arrays)
-###### 2. Reverse Integer (Math, Integer/String manipulation)
+1. Two Sum (Arrays)
+2. Reverse Integer (Math, Integer/String manipulation)
 ###### 3. Palindrome Number (Math, Integer/String manipulation)
 ###### 4. Roman to Integer (Hashtables, Math)
 ###### 5. Longest Common Prefix (Strings)
