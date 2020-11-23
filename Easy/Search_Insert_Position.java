@@ -23,6 +23,26 @@
 
 // Input: nums = [1], target = 0
 // Output: 0
+class Solution {
+ public int searchInsert(int[] nums, int target) {
+  int i = 0;
+  for(; i < nums.length; i++) {
+    if(nums[i] == target) {
+      break;
+    }
+    else if(target < nums[i]) {
+      break
+    }
+  }
+   
+   if(i == nums.length - 1 && target > nums[i]) {
+     return i + 1;
+   }
+   else return i;
+  }
+}
+
+//OR
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
@@ -33,3 +53,6 @@ class Solution {
         return i;
     }
 }
+
+
+
