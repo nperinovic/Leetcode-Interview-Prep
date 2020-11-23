@@ -1,5 +1,5 @@
 # Leetcode Practice
-### Leetcode Interview Prep. Contains Easy, Medium and Hard problems.
+### Interview prep containing easy, medium and hard problems.
 #### </br>
 ### Easy:
 ###### 1. Two Sum (Arrays)
