@@ -21,5 +21,6 @@
 #### </br>
 ### Medium:
 ###### 1. Add Two Numbers (Linked Lists, Math)
+###### 2. Longest Substring Without Repeating Characters (Hashset)
 #### </br>
 ### Hard:
