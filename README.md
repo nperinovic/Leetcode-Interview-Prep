@@ -22,5 +22,6 @@
 ### Medium:
 ###### 1. Add Two Numbers (Linked Lists, Math)
 ###### 2. Longest Substring Without Repeating Characters (Hashset)
+###### 3. Longest Palindrome in Substring (Strings, Dynamic Programming)
 #### </br>
 ### Hard:
