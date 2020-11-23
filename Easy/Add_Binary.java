@@ -22,10 +22,10 @@ class Solution {
         while(aTemp >= 0 || bTemp >= 0) {
             int sum = carry;
             if(aTemp >= 0) {
-                sum += a.charAt(aTemp--) - '0';
+                sum += a.charAt(aTemp--) - '0'; // - '0' will give us 0 if a.charAt(aTemp--) is '0' and 1 if a.charAt(aTemp--) = '1'
             }
             if(bTemp >= 0) {
-                sum += b.charAt(bTemp--) - '0';
+                sum += b.charAt(bTemp--) - '0'; // - '0' will give us 0 if a.charAt(aTemp--) is '0' and 1 if a.charAt(aTemp--) = '1'
             }
             
             str.insert(0, sum % 2);
