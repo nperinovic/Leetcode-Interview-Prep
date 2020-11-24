@@ -18,6 +18,7 @@
 14. Length of Last Word (String)
 15. Plus One (Array)
 16. Add Binary (Math, Strings)
+17. Sqrt(x) (Math, Binary Search)
 ### </br>
 ### Medium:
 1. Add Two Numbers (Linked Lists, Math)
