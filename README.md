@@ -25,5 +25,6 @@
 2. Longest Substring Without Repeating Characters (Hashset)
 3. Longest Palindrome in Substring (Strings, Dynamic Programming)
 4. ZigZag Conversion (Strings)
+5. String to Integer (Math, Strings)
 ### </br>
 ### Hard:
