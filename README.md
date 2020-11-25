@@ -26,5 +26,6 @@
 3. Longest Palindrome in Substring (Strings, Dynamic Programming)
 4. ZigZag Conversion (Strings)
 5. String to Integer (Math, Strings)
+6. Container with Most Water (Array, Two Pointers)
 ### </br>
 ### Hard:
