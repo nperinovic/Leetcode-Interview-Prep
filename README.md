@@ -28,6 +28,7 @@
 5. String to Integer (Math, Strings)
 6. Container with Most Water (Array, Two Pointers)
 7. Integer to Roman (Math, Strings)
-8. 3 Sum (Array, To Pointers)
+8. 3 Sum (Array, Two Pointers)
+9. 3 Sum Closest (Array, Two Pointers)
 ### </br>
 ### Hard:
