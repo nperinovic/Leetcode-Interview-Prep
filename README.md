@@ -30,5 +30,6 @@
 7. Integer to Roman (Math, Strings)
 8. 3 Sum (Array, Two Pointers)
 9. 3 Sum Closest (Array, Two Pointers)
+10. Letter Combinations of a Phone Number (String, Backtracking, Recursion)
 ### </br>
 ### Hard:
