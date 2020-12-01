@@ -33,3 +33,4 @@
 10. Letter Combinations of a Phone Number (String, Backtracking, Recursion)
 ### </br>
 ### Hard:
+1. Median of Two Sorted Arrays (Arrays)
