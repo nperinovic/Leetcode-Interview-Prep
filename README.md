@@ -19,6 +19,7 @@
 15. Plus One (Array)
 16. Add Binary (Math, Strings)
 17. Sqrt(x) (Math, Binary Search)
+18. Climbing Stairs (Dynamic Programming)
 ### </br>
 ### Medium:
 1. Add Two Numbers (Linked Lists, Math)
