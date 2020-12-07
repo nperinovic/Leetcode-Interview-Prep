@@ -20,6 +20,7 @@
 16. Add Binary (Math, Strings)
 17. Sqrt(x) (Math, Binary Search)
 18. Climbing Stairs (Dynamic Programming)
+19. Delete Duplicates from Sorted List (Linked List)
 ### </br>
 ### Medium:
 1. Add Two Numbers (Linked Lists, Math)
