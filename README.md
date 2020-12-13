@@ -21,6 +21,7 @@
 17. Sqrt(x) (Math, Binary Search)
 18. Climbing Stairs (Dynamic Programming)
 19. Delete Duplicates from Sorted List (Linked List)
+20. Merge Two Sorted Arrays (Two Pointers)
 ### </br>
 ### Medium:
 1. Add Two Numbers (Linked Lists, Math)
